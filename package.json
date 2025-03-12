@@ -9,10 +9,10 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/annotorious/annotorious-plugin-connectors.git"
+    "url": "git+https://github.com/alanmastro/annotorious-plugin-connectors.git"
   },
   "bugs": {
-    "url": "https://github.com/annotorious/annotorious-plugin-connectors/issues"
+    "url": "https://github.com/alanmastro/annotorious-plugin-connectors/issues"
   },
   "scripts": {
     "start": "vite",
